@@ -13,6 +13,7 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "@nativescript/theme": "~2.3.0",
+    "nativescript-remote-builds": "^1.0.0",
     "tns-core-modules": "~6.4.0"
   },
   "devDependencies": {
