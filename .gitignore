@@ -5,8 +5,8 @@ platforms/
 
 # NativeScript Template
 *.js.map
-.nsremote.config.json
-.nsremote.env.json
+app/.nsremote.config.json
+app/.nsremote.env.json
 # Logs
 logs
 *.log
